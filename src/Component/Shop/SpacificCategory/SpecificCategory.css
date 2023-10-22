@@ -1,0 +1,47 @@
+@media(max-width:660px) {
+  .SpecificCategory {
+    display: grid;
+
+  }
+
+  .SpecificCategory {
+    grid-template-columns: auto;
+
+  }
+}
+
+@media(min-width:661px) {
+  .SpecificCategory {
+    display: grid;
+    gap: 10px;
+  }
+
+  .SpecificCategory {
+    grid-template-columns: auto auto;
+  }
+  .SpecificCategory-pd {
+    max-width: 300px;
+  }
+}
+
+@media(min-width:1048px) {
+  .SpecificCategory {
+    grid-template-columns: auto auto auto;
+  }
+
+}
+
+@media(min-width:1220px) {
+  .SpecificCategory {
+    grid-template-columns: auto auto auto auto;
+  }
+
+}
+
+@media(min-width:1440px) {
+  .SpecificCategory {
+    grid-template-columns: auto auto auto auto auto;
+  }
+ 
+
+}

@@ -1,0 +1,350 @@
+@media(max-width:661px){
+    .Reviews {
+        /* background-color: antiquewhite; */
+    }
+    
+    .Reviews_title h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    
+    .from{
+        margin-bottom: 40px;
+    }
+    .Reviews_title p {
+        line-height: 30px;
+        color: #222222;
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    
+    }
+    
+    .from_container {
+        margin-bottom: 20px;
+        /* background-color: yellowgreen; */
+    }
+    
+    .from_div_1 label {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 label {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 input {
+        width: 160px;
+        padding: 10px 12px;
+        border-radius: 5px;
+        border:1px solid  #c8c7c7;
+        outline: none;
+    }
+    
+    .from_div_1 textarea {
+        width: 330px;
+        height: 200px;
+        border-radius: 5px;
+        outline: none;
+        border:1px solid  #c8c7c7;
+        padding: 10px 12px;
+        font-weight: 400;
+    
+    }
+    .from button{
+        background-color: white;
+        border-radius: 5px;
+        padding: 10px 22px;
+        font-weight: 400;
+    
+    }
+    .from_div_2 {
+        display: flex;
+    
+        gap: 10px;
+    
+    }
+}
+@media(min-width:661px){
+    .Reviews {
+        /* background-color: antiquewhite; */
+    }
+    
+    .Reviews_title h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    
+    .from{
+        margin-bottom: 40px;
+    }
+    .Reviews_title p {
+        line-height: 30px;
+        color: #222222;
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    
+    }
+    
+    .from_container {
+        margin-bottom: 20px;
+        /* background-color: yellowgreen; */
+    }
+    
+    .from_div_1 label {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 label {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 input {
+        width: 305px;
+        padding: 10px 12px;
+        border-radius: 5px;
+        border:1px solid  #c8c7c7;
+        outline: none;
+    }
+    
+    .from_div_1 textarea {
+        width: 630px;
+        height: 200px;
+        border-radius: 5px;
+        outline: none;
+        border:1px solid  #c8c7c7;
+        padding: 10px 12px;
+        font-weight: 400;
+    
+    }
+    .from button{
+        background-color: white;
+        border-radius: 5px;
+        padding: 10px 22px;
+        font-weight: 400;
+    
+    }
+    .from_div_2 {
+        display: flex;
+    
+        gap: 20px;
+    
+    }
+}
+@media(min-width:1048px){
+    .Reviews {
+        /* background-color: antiquewhite; */
+    }
+    
+    .Reviews_title h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    
+    .from{
+        margin-bottom: 40px;
+    }
+    .Reviews_title p {
+        line-height: 30px;
+        color: #222222;
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    
+    }
+    
+    .from_container {
+        margin-bottom: 20px;
+        /* background-color: yellowgreen; */
+    }
+    
+    .from_div_1 label {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 label {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 input {
+        width: 400px;
+        padding: 10px 12px;
+        border-radius: 5px;
+        border:1px solid  #c8c7c7;
+        outline: none;
+    }
+    
+    .from_div_1 textarea {
+        width: 840px;
+        height: 200px;
+        border-radius: 5px;
+        outline: none;
+        border:1px solid  #c8c7c7;
+        padding: 10px 12px;
+        font-weight: 400;
+    
+    }
+    .from button{
+        background-color: white;
+        border-radius: 5px;
+        padding: 10px 22px;
+        font-weight: 400;
+    
+    }
+    .from_div_2 {
+        display: flex;
+    
+        gap: 40px;
+    
+    }
+}
+@media(min-width:1240px){
+    .Reviews {
+        /* background-color: antiquewhite; */
+    }
+    
+    .Reviews_title h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    
+    .from{
+        margin-bottom: 40px;
+    }
+    .Reviews_title p {
+        line-height: 30px;
+        color: #222222;
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    
+    }
+    
+    .from_container {
+        margin-bottom: 20px;
+        /* background-color: yellowgreen; */
+    }
+    
+    .from_div_1 label {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 label {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 input {
+        width: 400px;
+        padding: 10px 12px;
+        border-radius: 5px;
+        border:1px solid  #c8c7c7;
+        outline: none;
+    }
+    
+    .from_div_1 textarea {
+        width: 840px;
+        height: 200px;
+        border-radius: 5px;
+        outline: none;
+        border:1px solid  #c8c7c7;
+        padding: 10px 12px;
+        font-weight: 400;
+    
+    }
+    .from button{
+        background-color: white;
+        border-radius: 5px;
+        padding: 10px 22px;
+        font-weight: 400;
+    
+    }
+    .from_div_2 {
+        display: flex;
+    
+        gap: 40px;
+    
+    }
+}
+@media(min-width:1440px){
+    .Reviews {
+        /* background-color: antiquewhite; */
+    }
+    
+    .Reviews_title h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    
+    .from{
+        margin-bottom: 40px;
+    }
+    .Reviews_title p {
+        line-height: 30px;
+        color: #222222;
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    
+    }
+    
+    .from_container {
+        margin-bottom: 20px;
+        /* background-color: yellowgreen; */
+    }
+    
+    .from_div_1 label {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 label {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    
+    .from_div_2_1 input {
+        width: 400px;
+        padding: 10px 12px;
+        border-radius: 5px;
+        border:1px solid  #c8c7c7;
+        outline: none;
+    }
+    
+    .from_div_1 textarea {
+        width: 840px;
+        height: 200px;
+        border-radius: 5px;
+        outline: none;
+        border:1px solid  #c8c7c7;
+        padding: 10px 12px;
+        font-weight: 400;
+    
+    }
+    .from button{
+        background-color: white;
+        border-radius: 5px;
+        padding: 10px 22px;
+        font-weight: 400;
+    
+    }
+    .from_div_2 {
+        display: flex;
+    
+        gap: 40px;
+    
+    }
+}

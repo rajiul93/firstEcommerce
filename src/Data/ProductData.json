@@ -1,0 +1,889 @@
+[
+    {
+        "id": "0",
+        "quantity":1,
+        "name": "rajiul",
+        "price": "",
+        "images": [
+            "",
+            ""
+        ],
+        "brand": "",
+        "departments": "",
+        "categorys": "",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "1",
+        "quantity":1,
+        "name": "Great Value Frozen Wild Blueberries, 40 oz",
+        "price": "500",
+        "img": "https://i.ibb.co/dWS6nFK/product-thumnail-89.png",
+        "images": [
+            "https://i.ibb.co/dWS6nFK/product-thumnail-89.png",
+            "https://i.ibb.co/MsNpQvQ/product-thumbnail-283.png"
+        ],
+        "brand": "",
+        "departments": "Groceries",
+        "categorys": "Food",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "2",
+        "quantity":1,
+        "img": "https://i.ibb.co/Pxg00f1/product-thumbnail-253.png",
+        "name": "Lemons, 2 lb bag",
+        "price": "2.99",
+        "images": [
+            "https://i.ibb.co/Pxg00f1/product-thumbnail-253.png",
+            "https://i.ibb.co/dWS6nFK/product-thumnail-89.png"
+        ],
+        "brand": "",
+        "departments": "Groceries",
+        "categorys": "Food",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "3",
+        "quantity":1,
+        "img": "https://i.ibb.co/McxLLPR/product-thumbnail-277.png",
+        "name": "Navel Oranges, 3 lb Bag",
+        "price": "2.99",
+        "images": [
+            "https://i.ibb.co/McxLLPR/product-thumbnail-277.png",
+            "https://i.ibb.co/jTQ56wy/product-thumnail-90.png"
+        ],
+        "brand": "",
+        "departments": "Groceries",
+        "categorys": "Food",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "4",
+        "quantity":1,
+        "img": "https://i.ibb.co/0sq9Mqc/product-thumnail-86.png",
+        "name": "Small Hass Avocados, 4-6 Count Bag",
+        "price": "4.99",
+        "images": [
+            "https://i.ibb.co/0sq9Mqc/product-thumnail-86.png",
+            "https://i.ibb.co/h77HTVr/product-thumbnail-248.png"
+        ],
+        "brand": "",
+        
+        "departments": "Groceries",
+        "categorys": "Food",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "5",
+        "quantity":1,
+        "img": "https://i.ibb.co/VNTV8qd/product-thumbnail-241.png",
+        "name": "Whole Brown Mushrooms, 8 oz",
+        "price": "3.89",
+        "images": [
+            "https://i.ibb.co/VNTV8qd/product-thumbnail-241.png",
+            "https://i.ibb.co/XDLCjpT/product-thumnail-87.png"
+        ],
+        "brand": "",
+        "departments": "Groceries",
+        "categorys": "Food",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "6",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-75.png",
+        "name": "Homesvale Van Pay Button Tufted Pushback Recliner, Caribbean Blue",
+        "price": "24.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-75.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-192.png"
+        ],
+        "brand": "Pulvinar",
+        "departments": "Home_Appliance",
+        "categorys": "chairs",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "7",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-497.png",
+        "name": "Mainstays Faux Leather Bucket Accent Chair, Multiple Colors",
+        "price": "256",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-497.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-285.png"
+        ],
+        "brand": "Pulvinar",
+        "departments": "Home_Appliance",
+        "categorys": "chairs",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "8",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-494.png",
+        "name": "Relax-A-Lounger Reynolds Faux Suede Recliner, Espresso",
+        "price": "65.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-494.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-220.png"
+        ],
+        "brand": "Pulvinar",
+        "departments": "Home_Appliance",
+        "categorys": "chairs",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "9",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-435.png",
+        "name": "Lyocell shirt with pocket",
+        "price": "16.00",
+        "images": [
+            "",
+            ""
+        ],
+        "brand": "Aongue",
+        "departments": "Fashion_Clothings",
+        "categorys": "shirt",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "10",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-431.png",
+        "name": "Zipped cotton jersey shirt with all-over logo",
+        "price": "22.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-431.png"
+        ],
+        "brand": "Aongue",
+        "departments": "Fashion_Clothings",
+        "categorys": "shirt",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "11",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-435.png",
+        "name": "Double-breasted silk shirt",
+        "price": "18.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-435.png"
+        ],
+        "brand": "Aongue",
+        "departments": "Fashion_Clothings",
+        "categorys": "shirt",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "12",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-433.png",
+        "name": "Lyocell shirt with pocket",
+        "price": "362",
+        "images": [
+            "",
+            ""
+        ],
+        "brand": "Aongue",
+        "departments": "Fashion_Clothings",
+        "categorys": "shirt",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "13",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-430.png",
+        "name": "Ruched dress in matte interlock",
+        "price": "80",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-433.png"
+        ],
+        "brand": "Aongue",
+        "departments": "Fashion_Clothings",
+        "categorys": "shirt",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "14",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-430.png",
+        "name": "Wool, cashmere and silk hooded coat",
+        "price": "542",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/02/product-thumbnail-430.png"
+        ],
+        "brand": "Aongue",
+        "departments": "Fashion_Clothings",
+        "categorys": "shirt",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "15",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-150.png",
+        "name": "Audrina Drop Earrings",
+        "price": "13",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-150.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "16",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-144.png",
+        "name": "Big Hoop Earrings",
+        "price": "12",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-144.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-325.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "17",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-147.png",
+        "name": "Cubic Zirconia Cuff Bangle",
+        "price": "32",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-147.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-322.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "18",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-146.png",
+        "name": "Golden Rose Ring Set with Hearts and Cubic Zirconia",
+        "price": "35",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-146.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-323.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "19",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-146.png",
+        "name": "Karika Necklace",
+        "price": "54",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-152.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "20",
+        "quantity":1,
+        "name": "Marine Chain Pavé Element Dangle Earrings",
+        "price": "46",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-148.png ",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-321.png"
+        ],
+        "brand": "Ronec",
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-148.png",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "21",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-151.png",
+        "name": "Murciella Hoop Earrings",
+        "price": "44",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-151.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "22",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-151.png",
+        "name": "Purezza Bracelet with Magnetic Closure",
+        "price": "64",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-145.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-324.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "23",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-154.png",
+        "name": "The Callie Drop Earrings",
+        "price": "47",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-154.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "24",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-153.png",
+        "name": "The Ginevra Necklace",
+        "price": "87",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-153.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "25",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-149.png",
+        "name": "The Hailey Pendant ",
+        "price": "54",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-149.png ",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumbnail-415.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "26",
+        "quantity":1,
+        "img": "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-155.png",
+        "name": "The Philomena Pendant",
+        "price": "44",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-155.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumbnail-420.png"
+        ],
+        "brand": "Ronec",
+        "departments": "Jewels",
+        "categorys": "Earrings",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "27",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-490.png",
+        "name": "Apple AirPods Pro, Active Noise Cancellation, Custom Fit",
+        "price": "54",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-490.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-193.png"
+        ],
+        "brand": "cannon",
+        "departments": "Cameras_Lens",
+        "categorys": "camera",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "28",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-491.png",
+        "name": "Beats Studio Buds – True Wireless Noise Cancelling Bluetooth Earbuds – Black",
+        "price": "215       ",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-491.png"
+        ],
+        "brand": "cannon",
+        "departments": "Cameras_Lens",
+        "categorys": "camera",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "29",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-489.png",
+        "name": "Google Home Mini – Chalk",
+        "price": "302",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-489.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-246.png"
+        ],
+        "brand": "cannon",
+        "departments": "Cameras_Lens",
+        "categorys": "camera",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "30",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-264.png",
+        "name": "Google Home Mini – Chalk",
+        "price": "785",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-492.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-264.png"
+        ],
+        "brand": "Apple ",
+        "departments": "Laptop_PCs",
+        "categorys": "laptop",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "31",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-492.png",
+        "name": "Apple iMac (24-inch, Apple M1 chip with 8-Core CPU and 7-core GPU, 8GB RAM, 256GB) – Blue",
+        "price": "",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-492.png ",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-264.png"
+        ],
+        "brand": "apple",
+        "departments": "Laptop_PCs",
+        "categorys": "laptop",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "32",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-491.png",
+        "name": "rajiul",
+        "price": "",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-491.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-281.png"
+        ],
+        "brand": "apple",
+        "departments": "Laptop_PCs",
+        "categorys": "laptop",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "33",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-501.png",
+        "name": "Apple MacBook Pro 13.3″ with Retina Display, M1 Chip with 8-Core CPU and 8-Core GPU, 16GB Memory, 1TB SSD, Space Gray, Late 2020",
+        "price": "214",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-501.png ",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-205.png"
+        ],
+        "brand": "apple",
+        "departments": "Laptop_PCs",
+        "categorys": "laptop",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "34",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-500.png",
+        "name": "Microsoft Surface Laptop 3, 13.5″ Touch-Screen, 8GB Memory, 256GB SSD",
+        "price": "325",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-500.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-259.png  "
+        ],
+        "brand": "apple",
+        "departments": "Laptop_PCs",
+        "categorys": "laptop",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "35",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-499.png",
+        "name": "Microsoft Surface Pro 4 12.3″ (2736×1824) 2-in-1 Tablet w/ Keyboard",
+        "price": "256",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-499.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-207.png"
+        ],
+        "brand": "apple",
+        "departments": "Laptop_PCs",
+        "categorys": "laptop",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "36",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-498.png",
+        "name": "Microsoft Surface Pro 4 12.3″ 4GB/128GB Intel Core m3",
+        "price": "987",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-498.png ",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-187.png "
+        ],
+        "brand": "apple",
+        "departments": "Laptop_PCs",
+        "categorys": "laptop",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "37",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-135.png",
+        "name": "Purple 24‑inch iMac with Apple M1 chip",
+        "price": "542",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-135.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-195.png"
+        ],
+        "brand": "apple",
+        "departments": "Laptop_PCs",
+        "categorys": "laptop",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "38",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-135.png",
+        "name": "Alpine Swiss Neil Mens Snakeskin Oxford Dress Shoes Lace Up Casual Derby Loafers ",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-135.png ",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-195.png "
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "39",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-139.png",
+        "name": "City Classified Bay Women’s Cut Out Ankle Buckled Booties ",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-139.png "
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "40",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-293.png",
+        "name": "City Classified Kristen Women’s Perforated Ankle Heel Booties",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-293.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-142.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "41",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-133.png",
+        "name": "Men’s Rocky Oak Creek Chukka Boot RKS0481 Brown Waxhide Canvas/Full Grain Leather 11.5 M",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-133.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-219.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "42",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-197.png",
+        "name": "Men’s Rocky Ranger Waterproof 800G Insulated Outdoor Boot Brown Full Grain Leather 13 M",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-197.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-136.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "43",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-141.png",
+        "name": "Soda School-S Women’s Chunky Heel Buckle Ankle Booties",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-141.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-287.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "44",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-517.png",
+        "name": "Soda Scribe-S Women’s Double Buckle Ankle Strap Booties",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-517.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-245.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "45",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-134.png",
+        "name": "Tuck & Von Mens Genuine Leather Waterproof Two-tone Chukka Boot",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-134.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-194.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "46",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-143.png",
+        "name": "Undine Dark Brown High Heels Buckled Booties Soda Women Ankle Boots Side Zipper 10",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-143.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-229.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "47",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-137.png",
+        "name": "Women’s Earth Peak Provo Ankle Bootie Warm Taupe Suede 6 M",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-137.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-199.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "48",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-140.png",
+        "name": "Women’s Naot Leveche Bootie Blue Nubuck/Shiitake Nubuck 37 M",
+        "price": "520",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-140.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-198.png"
+        ],
+        "brand": "bugue",
+        "departments": "shoes_sandals",
+        "categorys": "shoes",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "49",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-496.png",
+        "name": "5.75′ Gray Mid-Century Modern Woven Sofa",
+        "price": "200.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-496.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-289.png"
+        ],
+        "brand": "kakuli",
+        "departments": "sofas",
+        "categorys": "sofa",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "50",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-75.png",
+        "name": "Homesvale Van Pay Button Tufted Pushback Recliner, Caribbean Blue",
+        "price": "200.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-75.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-192.png"
+        ],
+        "brand": "kakuli",
+        "departments": "sofas",
+        "categorys": "sofa",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "51",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-137.png",
+        "name": "Women’s Earth Peak Provo Ankle Bootie Warm Taupe Suede 6 M",
+        "price": "200.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-137.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-199.png"
+        ],
+        "brand": "kakuli",
+        "departments": "sofas",
+        "categorys": "sofa",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "52",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-494.png",
+        "name": "Relax-A-Lounger Reynolds Faux Suede Recliner, Espresso",
+        "price": "200.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2022/04/product-thumbnail-494.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-220.png"
+        ],
+        "brand": "kakuli",
+        "departments": "sofas",
+        "categorys": "sofa",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "53",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-23.png",
+        "name": "Athletic Works Solid Baseball Cap",
+        "price": "200.00",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-23.png"
+        ],
+        "brand": "easy",
+        "departments": "Handbags_Wallets",
+        "categorys": "handbag",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "54",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-165.png ",
+        "name": "AW™ 14″ Vintage Canvas Cross Body Schoolbag",
+        "price": "",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-165.png ",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumbnail-299.png"
+        ],
+        "brand": "easy",
+        "departments": "Handbags_Wallets",
+        "categorys": "handbag",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "55",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-217.png",
+        "name": "Crossbody Bag for Women Waterproof Shoulder Bag, Blue",
+        "price": "",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-217.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-218.png"
+        ],
+        "brand": "easy",
+        "departments": "Handbags_Wallets",
+        "categorys": "handbag",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "56",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-218.png",
+        "name": "",
+        "price": "",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-46.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-189.png"
+        ],
+        "brand": "easy",
+        "departments": "Handbags_Wallets",
+        "categorys": "handbag",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "57",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-163.png",
+        "name": "LAND Mummy Baby Diaper Backpack",
+        "price": "",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-163.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-216.png"
+        ],
+        "brand": "easy",
+        "departments": "Handbags_Wallets",
+        "categorys": "handbag",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "58",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-164.png",
+        "name": "Orben Bvshell Product",
+        "price": "",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-164.png",
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/11/product-thumbnail-272.png"
+        ],
+        "brand": "easy",
+        "departments": "Handbags_Wallets",
+        "categorys": "handbag",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    },
+    {
+        "id": "59",
+        "quantity":1,
+        "img":"https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-166.png",
+        "name": "Rockland Luggage Roadster 17 Rolling Backpack",
+        "price": "",
+        "images": [
+            "https://demo.agnidesigns.com/cartify/wp-content/uploads/2021/10/product-thumnail-166.png"
+        ],
+        "brand": "easy",
+        "departments": "Handbags_Wallets",
+        "categorys": "handbag",
+        "discrioption": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
+    }
+]

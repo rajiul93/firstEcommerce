@@ -1,0 +1,47 @@
+@media(max-width:1047px){
+    .NavShareContainer{
+        width: 350px;
+        margin: 0 auto;
+    }
+    .NavShare {
+        display: flex;
+        background-color: rgb(255, 255, 255);
+        width: 350px;
+        border-radius: 10px;
+        padding: 10px 15px;
+        z-index: 1000;
+        position: fixed;
+        bottom: 0;
+        align-items: center;
+        text-align: center;
+        box-shadow: .5px .5px 3px 1px rgb(192, 191, 191);
+    
+    
+    }
+    
+    .NavShare div {
+        width: 80px;
+        /* background-color: yellowgreen; */
+    }
+    
+    .NavShare div p {
+        cursor: pointer;
+    
+        font-size: 12px;
+        font-weight: 400;
+    }
+    
+    .NavShare div .icon {
+        font-size: 20px;
+        cursor: pointer;
+    
+    }
+}
+@media(min-width:1047px){
+    .NavShareContainer{
+        width: 350px;
+        margin: 0 auto;
+        display: none;
+    }
+    
+}

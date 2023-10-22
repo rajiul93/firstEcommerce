@@ -1,0 +1,43 @@
+[
+    {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/salami.svg",
+        "categoryName": "Food",
+        "id": 1
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/sofa.svg",
+        "categoryName": "sofa",
+        "id": 2
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/smartphone-5.svg",
+        "categoryName": "laptop",
+        "id": 3
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/shirt-5.svg",
+        "categoryName": "shirt",
+        "id": 4
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/pendant-3.svg",
+        "categoryName": "Earrings",
+        "id": 5
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/photo-camera-2.svg",
+        "categoryName": "camera",
+        "id": 6
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/smartwatch-22.svg",
+        "categoryName": "Earrings",
+        "id": 7
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/monitor.svg",
+        "categoryName": "laptop",
+        "id": 8
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/ankle-boots.svg",
+        "categoryName": "shoes",
+        "id": 9
+    }, {
+        "icon": "https://demo.agnidesigns.com/cartify/wp-content/themes/cartify/assets/icons/miscellaneous/salami.svg",
+        "categoryName": "chairs",
+        "id": 10
+    }
+]

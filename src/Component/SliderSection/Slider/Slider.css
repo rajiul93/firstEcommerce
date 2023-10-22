@@ -1,0 +1,118 @@
+@media(max-width:660px){
+    .slider1 {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .slider1-child {
+        font-size: 18px;
+    
+    }
+    
+    .slider1-child img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .slider1-child h6{
+        margin-top: 20%;
+        font-size:18px ;
+    }
+    .slider1-child h3{
+        font-size:24px ;
+    }
+    .slider1-child p{
+        font-size:14px ;
+    }
+    .slider1-child-2{
+        background: url('../../../image/slider-home-1/first-slide-1.png');
+        height: 400px;
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+    
+    
+    }
+    .slider1-child-1{
+        background: url('../../../image/slider-home-1/first-slide-2.png');
+        height: 400px;
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+    .slider1-child button{
+        border-radius: 5px;
+        background-color: #222222;
+        color: #ffff;
+        padding: 5px 26px;
+        font-size: 16px;
+    }
+}
+@media(min-width:660px){
+    .slider1 {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .slider1-child {
+        font-size: 18px;
+        height: 400px;
+    
+    }
+    
+    .slider1-child img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .slider1-child h6{
+        transform: translateX(10%);
+        margin-top: 20%;
+        font-size:18px ;
+    }
+    .slider1-child h3{
+        transform: translateX(10%);
+        font-size:24px ;
+    }
+    .slider1-child p{
+        transform: translateX(10%);
+        font-size:14px ;
+    }
+    .slider1-child-2{
+        background: url('../../../image/slider-home-1/first-slide-1.png');
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+    
+    
+    }
+    .slider1-child-1{
+        background: url('../../../image/slider-home-1/first-slide-2.png');
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+    .slider1-child button{
+       margin-left: 10%;
+
+        border-radius: 5px;
+        background-color: #222222;
+        color: #ffff;
+        padding: 5px 26px;
+        font-size: 16px;
+    }
+}
+@media(min-width:1048px){
+    .slider1 {
+        width: 100%;
+        height: 100%;
+    }
+    .slider1-child {
+        font-size: 18px;
+        height: 460px;
+    
+    }
+ 
+}

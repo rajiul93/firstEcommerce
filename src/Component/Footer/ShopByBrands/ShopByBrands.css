@@ -1,0 +1,140 @@
+@media(max-width:660px){
+    .ShopByBrands {
+        width: 360px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+    }
+    
+    .ShopByBrands .icon {
+        font-size: 28px;
+        margin: 10px 20px;
+    }
+    .ShopByBrands h6{
+        font-family: 'Satoshi', sans-serif;
+    
+    }
+    
+    .span {
+        width: 360px;
+        margin: 0 auto;
+        height: 1px;
+        background-color: black;
+    }
+}
+@media(min-width:661px){
+    .ShopByBrands {
+        width: 650px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        padding: 10px 10px;
+        /* background-color: yellowgreen; */
+
+    }
+    
+    .ShopByBrands .icon {
+        font-size: 28px;
+        margin: 10px 25px;
+    }
+    .ShopByBrands h6{
+        font-family: 'Satoshi', sans-serif;
+    
+    }
+    .ShopByBrands_child{
+        display: flex;
+    }
+    .span {
+        width: 650px;
+        margin: 0 auto;
+        height: .7px;
+        background-color: rgb(201, 200, 200);
+    }
+}
+@media(min-width:1048px){
+    .ShopByBrands {
+        width: 1024px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        padding: 10px 10px;
+        /* background-color: yellowgreen; */
+
+    }
+    
+    .ShopByBrands .icon {
+        font-size: 28px;
+        margin: 10px 15px;
+    }
+    .ShopByBrands h6{
+        font-family: 'Satoshi', sans-serif;
+    
+    }
+    .ShopByBrands_child{
+        display: flex;
+    }
+    .span {
+        width: 1024px;
+        margin: 0 auto;
+        height: .7px;
+        background-color: rgb(201, 200, 200);
+    }
+}
+@media(min-width:1248px){
+    .ShopByBrands {
+        width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        padding: 10px 10px;
+        /* background-color: yellowgreen; */
+
+    }
+    
+    .ShopByBrands .icon {
+        font-size: 28px;
+        margin: 10px 15px;
+    }
+    .ShopByBrands h6{
+        font-family: 'Satoshi', sans-serif;
+    
+    }
+    .ShopByBrands_child{
+        display: flex;
+    }
+    .span {
+        width: 1200px;
+        margin: 0 auto;
+        height: .7px;
+        background-color: rgb(201, 200, 200);
+    }
+}
+@media(min-width:1440px){
+    .ShopByBrands {
+        width: 1400px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        padding: 10px 10px;
+        /* background-color: yellowgreen; */
+
+    }
+    
+    .ShopByBrands .icon {
+        font-size: 28px;
+        margin: 10px 15px;
+    }
+    .ShopByBrands h6{
+        font-family: 'Satoshi', sans-serif;
+    
+    }
+    .ShopByBrands_child{
+        display: flex;
+    }
+    .span {
+        width: 1400px;
+        margin: 0 auto;
+        height: .7px;
+        background-color: rgb(201, 200, 200);
+    }
+}

@@ -1,0 +1,149 @@
+@media (max-width:660px){
+    .agniBlockHeading{
+        width: 360px;
+        margin: 0 auto;
+        background-color:rgb(252, 223, 176);
+        text-align: center;
+        overflow: hidden;
+        
+        
+    }
+    
+    .agniBlockHeading button {
+        margin-left: 10px;
+        font-size: 15px;
+        font-weight: 400;
+        border-radius: 5px;
+        background-color: #222222;
+        color: #ffff;
+        border: 2px solid black;
+        padding: 8px 15px;
+        transition: .3s;
+    }
+    .agniBlockHeading button:hover {
+        background-color: transparent;
+        color: #222222;
+    }
+    .agniBlockHeading h6{
+        font-size: 18px;
+        font-family: 'Satoshi', sans-serif;
+        font-weight: 500;
+    
+    }
+    .agniBlockHeading p{
+        font-size: 15px;
+        font-family: 'Satoshi', sans-serif;
+        font-weight: 400;
+    
+    }
+    .agniBlockHeading img{
+       display: none;
+    
+    }
+}
+@media (min-width:661px){
+    .agniBlockHeading{
+        overflow: hidden;
+
+        width: 650px;
+        margin: 0 auto;
+        background-color:rgb(252, 223, 176);
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        
+        
+    }
+    
+    .agniBlockHeading button {
+        margin-left: 10px;
+        font-size: 15px;
+        font-weight: 400;
+        border-radius: 5px;
+        background-color: #222222;
+        color: #ffff;
+        border: 2px solid black;
+        padding: 8px 15px;
+        transition: .3s;
+    }
+    .agniBlockHeading button:hover {
+        background-color: transparent;
+        color: #222222;
+    }
+    .agniBlockHeading h6{
+        font-size: 18px;
+        font-family: 'Satoshi', sans-serif;
+        font-weight: 500;
+        width: 200px;
+    
+    }
+    .agniBlockHeading p{
+        font-size: 15px;
+        font-family: 'Satoshi', sans-serif;
+        font-weight: 400;
+        width: 200px;
+    
+    }
+    /* .agniBlockHeading .agniBlockHeading_2{
+        flex-shrink: 1;
+        min-width:150px !important ;
+        background-color: yellowgreen;
+    } */
+    .agniBlockHeading img{
+        display: block;
+        width: 150px;
+     
+     }
+}
+@media (min-width:1048px){
+    .agniBlockHeading{
+        overflow: hidden;
+
+        width: 1024px;
+        margin: 0 auto;
+        background-color:rgb(252, 223, 176);
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        
+        
+    }
+    
+    .agniBlockHeading button {
+        margin-left: 10px;
+        font-size: 15px;
+        font-weight: 400;
+        border-radius: 5px;
+        background-color: #222222;
+        color: #ffff;
+        border: 2px solid black;
+        padding: 8px 15px;
+        transition: .3s;
+    }
+    .agniBlockHeading button:hover {
+        background-color: transparent;
+        color: #222222;
+    }
+    .agniBlockHeading h6{
+        font-size: 18px;
+        font-family: 'Satoshi', sans-serif;
+        font-weight: 500;
+        width: 500px;
+    
+    }
+    .agniBlockHeading p{
+        font-size: 15px;
+        font-family: 'Satoshi', sans-serif;
+        font-weight: 400;
+        width: 500px;
+    
+    }
+
+    .agniBlockHeading img{
+        display: block;
+        width: 150px;
+     
+     }
+}

@@ -1,0 +1,38 @@
+@media(max-width:660px){
+    .shope_container{
+        width: 360px;
+
+display: flex;
+gap: 10px;        margin: 0 auto;
+
+    }
+}
+@media(min-width:661px){
+    .shope_container{
+        max-width: 650px;
+        display: flex;
+        gap: 10px;
+        margin: 0 auto;
+
+    }
+}
+@media(min-width:1048px){
+    .shope_container{
+        max-width: 1000px;
+        gap: 10px;
+    }
+}
+@media(min-width:1220px){
+    .shope_container{
+        max-width: 1200px;
+        gap: 10px;
+        
+    }
+}
+@media(min-width:1440px){
+    .shope_container{
+        max-width: 1400px;
+        gap: 10px;
+        
+    }
+}

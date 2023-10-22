@@ -1,0 +1,108 @@
+@media(max-width:660px){
+    .footerLink{
+        display: grid;
+        width: 360px;
+        margin: 0 auto;
+        grid-template-columns: auto auto;
+    
+    }
+    .footerLink div{
+        width: 175px;
+    }
+    .footerLink div h6{
+    font-family: 'Satoshi', sans-serif;
+
+        margin: 15px 0px;
+        padding: 0;
+    }
+    .footerLink div p{
+    font-family: 'Satoshi', sans-serif;
+
+        margin: 5px 0px;
+        padding: 0;
+        font-size: 14px;
+        font-weight: 400;
+        transition: .2s;
+    }
+    .footerLink div p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    }
+}
+@media(min-width:661px){
+    .footerLink{
+        display: grid;
+        width: 650px;
+        margin: 0 auto;
+        grid-template-columns: auto auto auto;
+    
+    }
+    .footerLink div{
+        width: 175px;
+    }
+    .footerLink div h6{
+    font-family: 'Satoshi', sans-serif;
+
+        margin: 15px 0px;
+        padding: 0;
+    }
+    .footerLink div p{
+    font-family: 'Satoshi', sans-serif;
+
+        margin: 5px 0px;
+        padding: 0;
+        font-size: 14px;
+        font-weight: 400;
+        transition: .2s;
+    }
+    .footerLink div p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    }
+}
+@media(min-width:1048px){
+    .footerLink{
+        display: grid;
+        width: 1024px;
+        margin: 0 auto;
+        grid-template-columns: auto auto auto auto;
+    
+    }
+    .footerLink div{
+        width: 175px;
+    }
+    .footerLink div h6{
+        margin: 30px 0px 10px 0px;
+        padding: 0;
+        font-size: 18px;
+    }
+    .footerLink div p{
+        margin: 6px 0px;
+        padding: 0;
+        font-size: 16px;
+        font-weight: 400;
+        transition: .2s;
+    }
+    .footerLink div p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    }
+}
+@media(min-width:1240px){
+    .footerLink{
+        display: grid;
+        width: 1200px;
+        margin: 0 auto;
+        grid-template-columns: auto auto auto auto auto;
+    
+    }
+}
+@media(min-width:1440px){
+    .footerLink{
+        display: grid;
+        width: 1400px;
+        margin: 0 auto;
+        grid-template-columns: auto auto auto auto auto;
+    
+    }
+}
